@@ -35,7 +35,7 @@ To attend the workshop, participants must submit a position paper.  There is no 
 The 14th SEI Architecture Technology User Network (SATURN) Conference — the longest-running software architecture conference in the world — brings together influential leaders and experts to discuss architecture-centric practices for developing, acquiring, and maintaining software-reliant systems. Architects from more than 20 countries meet annually at SATURN to share ideas, network, and learn about new and existing technologies. For more information, go to [http://www.sei.cmu.edu/saturn/2018](http://www.sei.cmu.edu/saturn/2018).
 
 - [SATURN 2018 Program](https://saturn2018.sched.com/)
-- [SATURN 2018 Registration](http://www.sei.cmu.edu/saturn/2018/registration.cfm)
+- [SATURN 2018 Registration](https://resources.sei.cmu.edu/news-events/events/saturn/registration.cfm)
 - [SATURN 2017 Workshop: Functional Architecture](https://github.com/michaelkeeling/saturn2017-architecture-functional-workshop)
 - [SATURN 2016 Workshop: Containers](https://github.com/michaelkeeling/saturn2016-containers-workshop)
 - [SATURN 2015 Workshop: Microservices](https://github.com/michaelkeeling/SATURN2015-Microservices-Workshop)
