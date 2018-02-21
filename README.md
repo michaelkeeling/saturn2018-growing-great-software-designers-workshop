@@ -40,7 +40,7 @@ SATURN 2018 conference on software architecture](http://www.sei.cmu.edu/saturn/2
 **Important Dates**
 
 * Workshop RSVP - April 1, 2018
-* Position papers deadline - April 33, 2018
+* Position papers deadline - April 23, 2018
 * Workshop - May 7, 2018 @ 8:30 AM
 
 **More Information**
