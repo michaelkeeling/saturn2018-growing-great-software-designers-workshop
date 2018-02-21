@@ -28,7 +28,7 @@ SATURN 2018 conference on software architecture](http://www.sei.cmu.edu/saturn/2
 
 ## Position Papers
 
-To attend the workshop, participants must submit a position paper.  There is no set length, but in the past papers have been between 2-8 pages.  
+To attend the workshop, participants must submit a position paper.  There is no set length, but in the past papers have been between 2-8 pages.  [Here are some questions and topics to inspire your paper](questions.md)
 
 # About SATURN
 
