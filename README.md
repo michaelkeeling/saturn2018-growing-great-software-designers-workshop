@@ -45,7 +45,7 @@ SATURN 2018 conference on software architecture](http://www.sei.cmu.edu/saturn/2
 
 **More Information**
 
-* [How to Participate](how-to-participate.md)
+* [How to Participate](how-to-join.md)
 * [Motivating Questions for Position Papers](questions.md)
 * [Reference Material to help Prepare for the Workshop](references.md)
 * [Tenative Workshop Agenda](agenda.md)
