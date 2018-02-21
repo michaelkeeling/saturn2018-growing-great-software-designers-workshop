@@ -12,7 +12,7 @@ software designers?  Here is how you can become a participant in the workshop:
 3. Register for the SATURN 2018 conference.
 
 You must have RSVP'd to the workshop by April 1, 2018 to participate.
-Position papers are due by April 13, 2018.
+Position papers are due by April 23, 2018.
 
 ## Position Papers
 
