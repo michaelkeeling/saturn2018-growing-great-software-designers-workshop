@@ -8,4 +8,5 @@ preferred, but any open format will work just fine.
 
 ## Papers
 
-* Your name, [title of your paper](#)
+* Randy Ynachausti, [Position Paper](RandyYnchausti - Growing Great Software Designers - Saturn 2018.pdf)
+* 
