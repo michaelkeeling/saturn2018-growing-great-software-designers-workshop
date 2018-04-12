@@ -53,14 +53,19 @@ SATURN 2018 conference on software architecture](http://www.sei.cmu.edu/saturn/2
 
 ## Workshop Participants
 
+All participants, please read the [position paper](position-papers) prior
+to workshop.  Also, take a look at and consider adding to the list of
+[references](references.md).
+
 * George Fairbanks
 * Michael Keeling
+* Randy Ynchausti
 * ...
 
 ## Position Papers
 
 We ask that everyone captures their thinking ahead of the workshop in the form of
-a brief [position paper](position-paper).  The purpose of this position paper is
+a brief [position paper](position-papers).  The purpose of this position paper is
 get your gears turning both by critically thinking about the topic on your own,
 but also by reading other ideas before the start of the workshop.
 
