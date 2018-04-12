@@ -8,5 +8,5 @@ preferred, but any open format will work just fine.
 
 ## Papers
 
-* Randy Ynachausti, [Position Paper](RandyYnchausti - Growing Great Software Designers - Saturn 2018.pdf)
+* Randy Ynachausti, [Position Paper](RandyYnchausti+-+Growing+Great+Software+Designers+-+Saturn+2018.pdf)
 * 
