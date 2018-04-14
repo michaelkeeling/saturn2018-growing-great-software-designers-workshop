@@ -25,9 +25,9 @@ The operational perspective and more traditional IT knowledge came with a move i
 
 While growing and to continue my growth these were my main hurdles:
 
-	- Finding a suitable mentor that was well aware of my technical work to get useful feedback.
-	- Decide how to continuously learn: what not to read? What conferences and courses to go to?
-	- Staying up to speed with relevant changes in technology: what areas to watch, what to let go?
+- Finding a suitable mentor that was well aware of my technical work to get useful feedback.
+- Decide how to continuously learn: what not to read? What conferences and courses to go to?
+- Staying up to speed with relevant changes in technology: what areas to watch, what to let go?
 
 ## Software design skills my employers needed
 My interest in the architecture profession has always been connecting business and technical people: acting as an interpreter speaking software while having a good understanding of the business goals. Gregor Hohpe calls this the architect elevator [3]. One needs top-notch technical knowledge and understanding to translate design questions and problems to understandable English for laymen. However, being successful in this translation exercise does not necessarily require years of coding experience, it is a more generic software engineering and design skill.
@@ -36,31 +36,31 @@ My current employer and former employers usually relied on a combination of thre
 
 The first skillset revolves around requirements engineering includes capabilities such as:
 
-	- Translating business questions into technical and development process requirements.
-	- Supporting negotiation with suppliers to reach sensible technical agreements.
-	- Quality assessment of software artifacts developed by consultants.
+- Translating business questions into technical and development process requirements.
+- Supporting negotiation with suppliers to reach sensible technical agreements.
+- Quality assessment of software artifacts developed by consultants.
 
 The second skillset is guidance of the software engineering and design process:
 
-	- Day-to-day software development process guidance, coaching & mentorship.
-	- Lifecycle management of software artifacts, for example formulating strategies for dealing with technical debt.
-	- Successfully delivering changes to production and implementation of DevOps practices.
+- Day-to-day software development process guidance, coaching & mentorship.
+- Lifecycle management of software artifacts, for example formulating strategies for dealing with technical debt.
+- Successfully delivering changes to production and implementation of DevOps practices.
 
 The third skillset consists of more pure architecture and design skills including:
 
-	- Information management and architecture often across multiple applications.
-	- Designing appropriate security solutions based on data sensitivity.
-	- Guiding application lifecycles, what to do with legacy applications? 
-	- Selecting and evaluating technology, for example by building prototypes or performing experiments.
+- Information management and architecture often across multiple applications.
+- Designing appropriate security solutions based on data sensitivity.
+- Guiding application lifecycles, what to do with legacy applications? 
+- Selecting and evaluating technology, for example by building prototypes or performing experiments.
 
 ## Growing the next generation of designers
 Since I moved out of research into IT practice, I am not only a learner but also (again) a teacher of software design. The previous sections aim to provoke thought about who to grow into designers and what skills new designers may need. Now I will summarize what I do to grow my current development team, and to stay in touch with 'the engine room' [3] myself:
 
-	- Collaborative code reviews on a sample of deliverables from the previous sprint to look for architecture evident code, and potentially important decisions.
-	- Coaching and requiring documentation of significant design decisions in architecture decision records [4].
-	- Enable progress of the development team: contracts, procurement (licenses, but also technology investigation), relations with IT operations.
-	- Acting as a sparring partner for technical decisions and hindrances.
-	- Finally, I have a strong ambition to practice more pair programming than the very limited time I manage to do that today.
+- Collaborative code reviews on a sample of deliverables from the previous sprint to look for architecture evident code, and potentially important decisions.
+- Coaching and requiring documentation of significant design decisions in architecture decision records [4].
+- Enable progress of the development team: contracts, procurement (licenses, but also technology investigation), relations with IT operations.
+- Acting as a sparring partner for technical decisions and hindrances.
+- Finally, I have a strong ambition to practice more pair programming than the very limited time I manage to do that today.
 
 ## References
 [1] Boken om IT-arkitektur, Daniel Akenine et al., 2014 ISBN: 9789175579535 http://www.thearchitectbook.com
