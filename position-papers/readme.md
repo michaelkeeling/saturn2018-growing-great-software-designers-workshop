@@ -11,3 +11,4 @@ preferred, but any open format will work just fine.
 * Randy Ynachausti, [Position Paper](RandyYnchausti+-+Growing+Great+Software+Designers+-+Saturn+2018.pdf)
 * Thijmen de Gooijer, [The non-existent junior enterprise architect](de_gooijer-the_non-existent_junior_enterprise_architect.md)
 * Michael Turner, [Position Paper](MichaelTurner_GrowingGreatSoftwareDesigners.md)
+* Joe Runde, [What is with the apathy?](runde_joe_what_is_with_the_apathy.md)
