@@ -60,6 +60,9 @@ to workshop.  Also, take a look at and consider adding to the list of
 * George Fairbanks
 * Michael Keeling
 * Randy Ynchausti
+* Thijmen de Gooijer
+* Michael Turner
+* Joe Runde
 * ...
 
 ## Position Papers
