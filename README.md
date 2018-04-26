@@ -63,6 +63,7 @@ to workshop.  Also, take a look at and consider adding to the list of
 * Thijmen de Gooijer
 * Michael Turner
 * Joe Runde
+* Adam Wynne
 * ...
 
 ## Position Papers
