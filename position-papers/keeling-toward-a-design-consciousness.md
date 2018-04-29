@@ -4,9 +4,9 @@ Michael Keeling, https://www.neverletdown.net, [@michaelkeeling](https://twitter
 
 SATURN 2018 Growing Great Software Architects Workshop position paper
 
-The subtitle of my book [Design It!](https://amzn.to/2r6DdWJ) is _from programmer to software architect_.  This
+The subtitle of my book, [Design It!](https://amzn.to/2r6DdWJ), is _from programmer to software architect_.  This
 subtitle is both an homage to [The Pragmatic Programmer: from Jouneyman to Master](https://amzn.to/2HZJY7e).
-but also a signal for potential readers that this book is meant to guide aspiring architects on their
+and a signal for potential readers that this book is meant to guide aspiring architects on their
 journey toward mastery.  This journey, _from programmer to software architect_, was at the forefront of my
 mind throughout the writing process.  I worked hard to fill every page of every chapter with practical and
 useful advice taken from my own experiences working with teams to ship software and mentoring future
