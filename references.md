@@ -14,3 +14,7 @@
 
 * The SEI developed [an inventory of architect's duties, skills, and knowledge](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=509585) and a an inventory of the [individual, team, and organization capabilities](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=8939) needed to allow architects to be effective.
 * [What makes an architect successful?](https://resources.sei.cmu.edu/asset_files/Article/2016_101_001_465495.pdf)
+
+## Other
+
+* [Software Design Decoded: 66 Ways Experts Think](https://amzn.to/2r7Y1xR) by Marian Petre, André van der Hoek, and Yen Quach 
