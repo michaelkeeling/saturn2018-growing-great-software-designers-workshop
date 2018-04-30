@@ -64,6 +64,7 @@ to workshop.  Also, take a look at and consider adding to the list of
 * Michael Turner
 * Joe Runde
 * Adam Wynne
+* Matthias Kittner
 * ...
 
 ## Position Papers
