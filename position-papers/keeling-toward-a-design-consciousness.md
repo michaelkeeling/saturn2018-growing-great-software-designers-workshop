@@ -54,9 +54,10 @@ The third level of the skills pyramid is _Systems Thinking_.  By the time a pers
 level of the pyramid they are able to see threads of commonality and influence across multiple
 related (and not directly related) elements.  True systems thinking goes beyond simple _cause and effect_
 and _rules of thumb_ that a person at the second level of the Pyramid might expect.  Architects must
-be able to operate at this level of the pyramid so they can help their team navigate the murky and ever
-changing murky waters of a software system under development.  Someone at this level is not only responding
-to the changes but actively seeking them and helping the team actively deal with them.
+be able to operate at this level of the pyramid so they can help their team navigate the ever
+changing murky waters of a software system under development, balance trade-offs, and deal with wicked
+problems.  Someone at this level is not only responding to the changes but actively seeking them and
+helping the team actively deal with them.
 
 In _Design It!_ I suggested that the more software architects there are on a team, the easier
 it will be for a team to develop a software system. Each team will have teammates at different
