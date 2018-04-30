@@ -14,3 +14,4 @@ preferred, but any open format will work just fine.
 * Joe Runde, [What is with the apathy?](runde_joe_what_is_with_the_apathy.md)
 * Adam Wayne, [Position Paper](AdamWynne_GrowingDesigners.md)
 * Michael Keeling, [Toward a Design Consciousness](keeling-toward-a-design-consciousness.md)
+* Matthias Kittner, [Position Paper](MatthiasKittner_GrowingGreatSoftwareDesigners.md)
