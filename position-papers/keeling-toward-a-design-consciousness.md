@@ -1,8 +1,10 @@
-# Toward a Design Consciousness
+Michael Keeling, Software Engineer at IBM
 
-Michael Keeling, https://www.neverletdown.net, [@michaelkeeling](https://twitter.com/)
+https://www.neverletdown.net, [@michaelkeeling](https://twitter.com/)
 
 SATURN 2018 Growing Great Software Architects Workshop position paper
+
+# Toward a Design Consciousness
 
 The subtitle of my book, [Design It!](https://amzn.to/2r6DdWJ), is _from programmer to software architect_.  This
 subtitle is both an homage to [The Pragmatic Programmer: from Jouneyman to Master](https://amzn.to/2HZJY7e)
