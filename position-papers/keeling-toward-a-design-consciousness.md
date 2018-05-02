@@ -40,7 +40,7 @@ in core software construction and detailed design skills as well as a deep sense
 applying those skills in practice.  In other words you have to care about what you do and do it well.
 Strong technical practices alone are not sufficient.  [Code Complete by Steve McConnell](https://amzn.to/2HzTsqE)
 embodies the essence of this ideal (there are other examples too) by covering both core principles in
-software construction and also discussing the attitude, philosophy, and values that make a good craftsman.
+software construction and also discussing the attitude, philosophy, and values that great developers have.
 
 The second level of the skills pyramid is _Leadership and Agility_.  I had trouble deciding
 what to call this level.  The fundamental goal of this level of the pyramid is to learn how to
@@ -99,8 +99,8 @@ as a thought experiment for exploring this idea.  The general idea behind this h
 is that part of the human brain is responsible for "speaking" or providing direction, which
 another part of the brain follows.  I should point out that this theory is not generally
 accepted by mainstream psychology, but it does make for interesting discussion.  So, while there's
-little science behind this hypothesis, but as a thought experiment it might still yield some
-interesting insights.
+little science behind this hypothesis, using the bicameral mind as a thought experiment might
+still yield some interesting insights.
 
 If we assume designers have a _bicameral mind_, then skills acquisition might be interpreted
 as the act of internalizing the _voice_ of another expert designer.  From this perspective,
@@ -161,6 +161,6 @@ while others do not.
 * Solid design skills are absolutely required for growing great architects.
 * We can organize our approach to skills growth using the skills pyramid or something like it.
 * Skills alone are not enough to grow thought leaders, and there seems to be something beyond
-  expert level skills which I call a design consciosness.
+  expert level skills which I call a design consciousness.
 * Other than _reflective practice_, I'm not sure how to go about helping others to develop
   self-awareness on the path to forming their own design consciousness
