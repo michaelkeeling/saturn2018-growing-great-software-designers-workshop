@@ -15,3 +15,4 @@ preferred, but any open format will work just fine.
 * Adam Wayne, [Position Paper](AdamWynne_GrowingDesigners.md)
 * Michael Keeling, [Toward a Design Consciousness](keeling-toward-a-design-consciousness.md)
 * Matthias Kittner, [Position Paper](MatthiasKittner_GrowingGreatSoftwareDesigners.md)
+* George Fairbanks, [Position Paper](GeorgeFairbanks-IndividualOrganizationImpliitExplicit.md)
