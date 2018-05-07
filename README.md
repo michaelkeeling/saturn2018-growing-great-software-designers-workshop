@@ -37,8 +37,9 @@ overcome in today’s software shops.
 The workshop took place on Monday, May 7, 2018 in [Plano, TX during the
 SATURN 2018 conference on software architecture](http://www.sei.cmu.edu/saturn/2018/).
 
-
 ## Workshop Participants
+
+![group photo](images/Saturn-2018-Growing-Great-Designers-Group-Photo.jpg)
 
 * George Fairbanks - [@GHFairbanks](https://twitter.com/GHFairbanks)
 * Michael Keeling - [@michaelkeeling](https://twitter.com/michaelkeeling)
