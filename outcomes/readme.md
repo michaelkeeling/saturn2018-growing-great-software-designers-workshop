@@ -1,8 +1,6 @@
 # Outcomes
 
-## Key Take-Aways
-
-
+[Summary and Reflection](summary-and-reflection.md)
 
 ## Raw Workshop Notes
 
