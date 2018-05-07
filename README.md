@@ -53,6 +53,7 @@ SATURN 2018 conference on software architecture](http://www.sei.cmu.edu/saturn/2
 * Jorn Olmheim - [@joelmheim](https://twitter.com/joelmheim)
 * Sebastian von Conrad
 * James Ivers
+* Eltjo Poort
 
 ## Position Papers
 
