@@ -31,3 +31,10 @@ take aways from the workshop.
   * Are we approaching a design crisis?
   * What is the dynamic here?  It might start with low level design abilities,
     putting more load on the senior designers.
+
+
+## Raw Notes
+
+![](https://github.com/michaelkeeling/saturn2018-growing-great-software-designers-workshop/blob/master/images/reflection-1.jpg)
+
+![](https://github.com/michaelkeeling/saturn2018-growing-great-software-designers-workshop/blob/master/images/reflection-2.jpg)
