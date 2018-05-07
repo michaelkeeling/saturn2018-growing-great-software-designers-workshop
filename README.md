@@ -40,10 +40,6 @@ SATURN 2018 conference on software architecture](http://www.sei.cmu.edu/saturn/2
 
 ## Workshop Participants
 
-All participants, please read the [position paper](position-papers) prior
-to workshop.  Also, take a look at and consider adding to the list of
-[references](references.md).
-
 * George Fairbanks - [@GHFairbanks](https://twitter.com/GHFairbanks)
 * Michael Keeling - [@michaelkeeling](https://twitter.com/michaelkeeling)
 * Randy Ynchausti
@@ -59,9 +55,9 @@ to workshop.  Also, take a look at and consider adding to the list of
 
 ## Position Papers
 
-We ask that everyone captures their thinking ahead of the workshop in the form of
-a brief [position paper](position-papers).  The purpose of this position paper is
-get your gears turning both by critically thinking about the topic on your own,
+We asked everyone to do some thinking ahead of the workshop in the form of
+a brief [position paper](position-papers).  The purpose of this position paper was
+to get everyone thinking critically about the topic on your own,
 but also by reading other ideas before the start of the workshop.
 
 See [how to join the workshop](how-to-join.md) for more information.
