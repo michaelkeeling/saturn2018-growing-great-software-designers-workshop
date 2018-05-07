@@ -34,21 +34,8 @@ is that we'll end the day with several concrete suggestions and practices to sha
 the SATURN community, some _ah-ha!_ moments, and a collection of challenges that must be
 overcome in today’s software shops.
 
-The workshop will took place on Monday, May 7, 2018 in [Plano, TX during the
+The workshop took place on Monday, May 7, 2018 in [Plano, TX during the
 SATURN 2018 conference on software architecture](http://www.sei.cmu.edu/saturn/2018/).
-
-**Important Dates**
-
-* Workshop RSVP - April 1, 2018
-* Position papers deadline - April 23, 2018
-* Workshop - May 7, 2018 @ 8:30 AM
-
-**More Information**
-
-* [How to Participate](how-to-join.md)
-* [Motivating Questions for Position Papers](questions.md)
-* [Reference Material to help Prepare for the Workshop](references.md)
-* [Tenative Workshop Agenda](agenda.md)
 
 
 ## Workshop Participants
@@ -57,15 +44,18 @@ All participants, please read the [position paper](position-papers) prior
 to workshop.  Also, take a look at and consider adding to the list of
 [references](references.md).
 
-* George Fairbanks
-* Michael Keeling
+* George Fairbanks - [@GHFairbanks](https://twitter.com/GHFairbanks)
+* Michael Keeling - [@michaelkeeling](https://twitter.com/michaelkeeling)
 * Randy Ynchausti
 * Thijmen de Gooijer
-* Michael Turner
+* Michael Turner - [@visteonSW](https://twitter.com/visteonSW)
 * Joe Runde
 * Adam Wynne
 * Matthias Kittner
-* ...
+* Harald Wesenberg - [@hwes](https://twitter.com/hwes)
+* Jorn Olmheim - [@joelmheim](https://twitter.com/joelmheim)
+* Sebastian von Conrad
+* James Ivers
 
 ## Position Papers
 
