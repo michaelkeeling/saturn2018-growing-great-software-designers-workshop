@@ -37,3 +37,6 @@
  * SOLID
 
 
+## Raw Notes
+
+![](https://github.com/michaelkeeling/saturn2018-growing-great-software-designers-workshop/blob/master/images/cannon-of-ideas.jpg)
