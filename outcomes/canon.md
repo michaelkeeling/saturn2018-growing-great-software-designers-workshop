@@ -1,7 +1,7 @@
 # Canon of Ideas / scaffolding
 ## Reading List
  * Design of Everyday Things - Don Norman
- * Documenting Software Architectures - Views and Beyond
+ * Documenting Software Architectures - Views and Beyond - Bass et.al.
  * Domain Driven Design - Eric Evans
  * 37 things every architect needs to know - Gregor Hophe
  * A design patterns book (GoF, Head First ...)
@@ -11,15 +11,15 @@
  * Software Architectre for developers - Simon Brown
  * Pragmatic Programmer - Dave Thomas, Andy Hunt
  * Mythical Man Month - Fred Brooks
- * Waltzing with Bears
- * Peopleware
- * Code complete
- * Clean Code - Bob Martin
- * Lean Startup
- * Lean Software Engineering - Popendiecks
- * Anti-Fragile
- * On Trails
- * How to measure anything
+ * Waltzing with Bears - Tom DeMarco, Timothy Lister
+ * Peopleware - Tom Demarco, Timothy Lister
+ * Code complete - Steve McConnell
+ * Clean Code - Robert Martin
+ * Lean Startup - Eric Ries
+ * Lean Software Engineering - Tom and Mary Popendieck
+ * AntiFragile - Nassim Nicholas Taleb
+ * On Trails - Robert Moor
+ * How to measure anything - Douglas W. Hubbard
  * ++
 
 ## Canon
