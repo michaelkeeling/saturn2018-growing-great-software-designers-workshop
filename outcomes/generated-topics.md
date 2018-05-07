@@ -51,3 +51,11 @@
 49. Process or questions to bring product managemetn into this growing process. How much ameteurism and wishful thinking is there?  How do we deal with deadlines?
 50. What is the skillset for prescedented and unprescdeented design?  How do we design for the unknown? (with #41)
 51. Beyond great designers.  How do you know something is great?  (With #31)
+
+
+## Raw Notes
+
+![](https://github.com/michaelkeeling/saturn2018-growing-great-software-designers-workshop/blob/master/images/topics-1.jpg)
+![](https://github.com/michaelkeeling/saturn2018-growing-great-software-designers-workshop/blob/master/images/topics-2.jpg)
+![](https://github.com/michaelkeeling/saturn2018-growing-great-software-designers-workshop/blob/master/images/topics-3.jpg)
+![](https://github.com/michaelkeeling/saturn2018-growing-great-software-designers-workshop/blob/master/images/topics-4.jpg)
