@@ -68,3 +68,8 @@
 
 * Design documents and reviews
 
+## Raw Notes
+
+![](https://github.com/michaelkeeling/saturn2018-growing-great-software-designers-workshop/blob/master/images/concrete-methods-and-approaches-summary-1.jpg)
+
+![](https://github.com/michaelkeeling/saturn2018-growing-great-software-designers-workshop/blob/master/images/concrete-methods-and-approaches-summary-2.jpg)
