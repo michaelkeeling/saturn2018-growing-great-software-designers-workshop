@@ -6,7 +6,7 @@ Question: Why can't we grow everyone?
 
 Answer: We have limited resources. We want to invest in the most promising candidates
 
-# Techniques
+## Techniques
 
 * Look at past performance
   * Treat projects as experiments, with the caveat that all projects are different
@@ -23,3 +23,10 @@ Answer: We have limited resources. We want to invest in the most promising candi
 * Look for a hacker mentality
   * A good designer can figure out how a metal detector works at an airport, and defeat them by walking slowly and with their hands up
   * This shows good analytical inference
+
+There was some discussion about avoiding unconscious bias when identifying potential designers.  There was a strong believe  among the group that everyone can be a _good_ designer, but not that necessarily everyone _should_ be or _wants_ to be a designer, or that everyone can be a "great" designer.  One metaphor that seemed to illustrate this point well: not everyone can (or wants) to play violin in the orchestra (and an orchestra of only violins would be quite awful), all instruments must work together to play a piece.  Extending this metaphor further, children in some countries are introduced to instruments by allowing them to play with any instruments they want at first.  Perhaps there is something we can do in this vein to identify design candidates (e.g. rotations in job roles that encourage career exploration).
+
+
+## Raw Notes
+
+![](https://github.com/michaelkeeling/saturn2018-growing-great-software-designers-workshop/blob/master/images/how-to-identify-potential-designers-1.jpg)
