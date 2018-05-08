@@ -44,3 +44,8 @@ We also had a discussion on what has helped us as designers (but are we great?)
 * Diversity of experiences with different(?) mentors
 * Feedback loops on previous designs
 
+## Raw Notes
+
+![](https://github.com/michaelkeeling/saturn2018-growing-great-software-designers-workshop/blob/master/images/what-makes-a-designer-great-1.jpg)
+
+![](https://github.com/michaelkeeling/saturn2018-growing-great-software-designers-workshop/blob/master/images/what-makes-a-designer-great-2.jpg)
