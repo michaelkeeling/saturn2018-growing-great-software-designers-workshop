@@ -37,6 +37,8 @@ overcome in today’s software shops.
 The workshop took place on Monday, May 7, 2018 in [Plano, TX during the
 SATURN 2018 conference on software architecture](http://www.sei.cmu.edu/saturn/2018/).
 
+[During the SATURN 2018 conference we shared a summary of the workshop](outcomes/growing-great-software-designers-workshop-summary.pdf).
+
 ## Workshop Participants
 
 ![group photo](images/Saturn-2018-Growing-Great-Designers-Group-Photo.jpg)
