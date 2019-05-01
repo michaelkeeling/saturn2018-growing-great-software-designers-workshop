@@ -6,7 +6,7 @@
  * 37 things every architect needs to know - Gregor Hophe
  * A design patterns book (GoF, Head First ...)
  * SOLID principles
- * Design IT! - Michael Keeling
+ * Design It! - Michael Keeling
  * Just enough Software Architecture - George Fairbanks
  * Software Architectre for developers - Simon Brown
  * Pragmatic Programmer - Dave Thomas, Andy Hunt
