@@ -23,7 +23,7 @@ Let's attempt to remedy this oversight now.
 
 In _Design It!_ I focused heavily on skills all architects, really all great software engineers, need
 to be successful.  The skill sets I selected were based on how I develop software, but heavily influenced
-by Alistair Cockburn's proposed [foundations of software engineering](http://alistair.cockburn.us/Foundations+for+Software+Engineering),
+by Alistair Cockburn's proposed [foundations of software engineering](https://web.archive.org/web/20170222102938/http://alistair.cockburn.us/Foundations+for+Software+Engineering),
 especially software development as a resource constrained collaborative game, and the 9 crafts of
 software engineering.  Focusing on skills was the right thing to do in my book since everyone
 needs practical advice and pragmatic approaches for applying those skills.  But how does someone go
@@ -66,7 +66,7 @@ the potential agility of the team and the more easily that team will be able to 
 and deliver great software.
 
 I would also like to note that the Skills Pyramid proposed here roughly corresponds to another
-idea proposed by Alistair Cockburn, [Shu-Ha-Ri](http://alistair.cockburn.us/Shu+Ha+Ri).  To give
+idea proposed by Alistair Cockburn, [Shu-Ha-Ri]([http://alistair.cockburn.us/Shu+Ha+Ri](https://web.archive.org/web/20170320162552/http://alistair.cockburn.us/Shu+Ha+Ri)).  To give
 a very brief explanation, Shu-Ha-Ri describes three stages of mastery that people go through
 when learning new skills that of following (Shu), detaching (Ha), and fluent (Ri).  The [Dreyfus
 Model of Skills Acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
@@ -154,7 +154,7 @@ kind of creation with awareness.  Though what a series of exercises for unlockin
 self-awareness might look like I am unsure.  Nor am I sure why some people become self-aware
 while others do not.
 
-<img src="http://img5.mtime.cn/mg/2016/11/08/104212.93337504.jpg" width="500" />
+<img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/12/06/10/westworld-maze.jpg" width="500" />
 
 ## Summary
 
